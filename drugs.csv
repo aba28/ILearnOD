@@ -1,0 +1,36 @@
+﻿name,consensus.name,class
+hydrocodone,hydrocodone,prescription
+oxycodone,oxycodone,prescription
+morphine,morphine,morphine
+hydromorphone,hydromorphone,prescription
+buprenorphine,buprenorphine,prescription
+oxymorphone,oxymorphone,prescription
+methadone,methadone,methadone
+acetyl fentanyl,acetyl fentanyl,fentalogue
+acryl fentanyl,acryl fentanyl,fentalogue
+fentanyl,fentanyl,fentalogue
+3-methyl fentanyl,3-methyl fentanyl,fentalogue
+4-anpp,4-anpp,fentalogue
+tramadol,tramadol,prescription
+norfentanyl,norfentanyl,fentalogue
+carfentanyl,carfentanyl,fentalogue
+u-47700,u-47700,fentalogue
+furanyl fentanyl,furanyl fentanyl,fentalogue
+cocaine,cocaine,cocaine
+4-anilio-n-phenethylpiperidine,4-anpp,fentalogue
+4-aminophenyl-1-phenethylpiperidine,4-anpp,fentalogue
+despropionyl fentanyl,4-anpp,fentalogue
+heroin,heroin,heroin
+despropionyl ( 4-anpp ) fentanyl,4-anpp,fentalogue
+despropionyl (4-anpp) fentanyl,4-anpp,fentalogue
+fentanyl analog,trash,trash
+analog of fentanyl,trash,trash
+analog of fentanyl,trash,trash
+opioid,nonspec,nonspec
+opiate,nonspec,nonspec
+methamphetamine,methamphetamine,methamphetamine
+codeine,codeine,prescription
+alcohol,alcohol,alcohol
+ethanol,alcohol,alcohol
+etoh,alcohol,alcohol
+alcoholism,trash,trash
