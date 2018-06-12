@@ -7,6 +7,8 @@ Updated 5/2/2018
 For research use only
 
 --------
+Download and install R (https://www.r-project.org) and RStudio (https://www.rstudio.com)
+________
 INPUT DATA
 1) Death records
 (example can be found in od_deaths_example.xlsx)
@@ -33,7 +35,7 @@ Running the program
 	Name of columns that contain the text on the death certificate
 
 
-2) Run code once by clicking on "Source". It should terminate with the message "Error: No input drug spellings file specified."
+2) Run code once by clicking on "Source" or typing source() into the command line. It should terminate with the message "Error: No input drug spellings file specified."
 
 3) Look at the file drug_spellings_OUTPUT.csv
 	For each “match”, decide whether this is truly a misspelling of the drug or not.
@@ -41,5 +43,5 @@ Running the program
 	If it is a false match, change the value of the "use" column to 0.
 	Save and Rename the file drug_spellings_use.csv
 	
-4) Run code again. The file result.csv is now generated with the output.
+4) Run code again by clicking "source" or typing source() into the command line. The file result.csv is now generated with the output.
 	Each column indicates whether a drug/ drug class was involved in the overdose
